@@ -1,0 +1,16 @@
+{
+  "name": "chai-backend",
+  "version": "1.0.0",
+  "description": "Learning Backend from Chai aur Backend series",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "author": "Tejas Shinde",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.3",
+    "prettier": "^3.2.5"
+  }
+}
